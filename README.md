@@ -4,8 +4,8 @@
 
 I'm an CS grad engineering student with a double major in Intelligent Systems and Project Management. 
 From machine learning to autonomous agents, I'm passionnate about everything related to AI, and have written my master thesis on deep reinforcement learning. 
-However, what I do like even more is learning new things : I'm always curious to delve into new technologies !
-Lately, I've been playing around a lot with Python for its amazing ML libraries. But I also have a soft spot for C++, Javascript and Bash.  
+However, what I do like even more is learning new things : I'm always curious to delve into new technologies and projects !
+Lately, I've been playing around a lot with Python, but I also have a soft spot for C++, Javascript and Bash.  
   
 Here are some of my projects :
 
