@@ -18,7 +18,7 @@ Here are some of my projects :
 - https://github.com/romainducrocq/flappy-seamonkai
 - https://github.com/romainducrocq/uge/tree/master/projects/MMIS-project
 
-### Planning, pathfinding
+### Planning & pathfinding
 - https://github.com/romainducrocq/cnake-ai
 - https://github.com/romainducrocq/uge/tree/master/projects/MAS-project
     - https://romainducrocq.github.io/uge/MAS-project/code/index.html
@@ -38,10 +38,10 @@ Here are some of my projects :
 - https://github.com/romainducrocq/creative-coding-with-p5js
     - https://romainducrocq.github.io/creative-coding-with-p5js/index.html
 
-### Web services / APIs 
+### Web services APIs 
 - https://github.com/romainducrocq/uge/tree/master/projects/Web-Service-Project
 
-### Other projects and old stuff
+### More projects, old stuff
 - https://github.com/romainducrocq/SFML-Template
 - https://github.com/romainducrocq/ece/tree/master/batailleNarval
 - https://github.com/romainducrocq/ece/tree/master/OLIVE_Thomas-BETOUCHE_Menad-DUCROCQ_Romain
