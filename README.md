@@ -1,4 +1,4 @@
-<img src="https://github.com/romainducrocq/romainducrocq/blob/master/header.png" alt="header">
+<img src="https://github.com/romainducrocq/romainducrocq/blob/master/header.png" alt="header" class="center">
 
 # Hi, I'm Romain :wave:
 
