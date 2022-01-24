@@ -50,7 +50,7 @@ Here are some of my projects :
 - **[Java EE, Apache Tomcat, JSP]** Distributed architecture across web services and a client website with a SOAP API | in Java EE and JSP with an Apache Tomcat server.  
      > repo : https://github.com/romainducrocq/uge/tree/master/projects/Web-Service-Project  
 
-### More projects, old stuff
+### More projects (and older stuff)
 - **[C++, SFML]** https://github.com/romainducrocq/SFML-Template  
 - **[C++]** https://github.com/romainducrocq/ece/tree/master/batailleNarval  
 - **[C++]** https://github.com/romainducrocq/ece/tree/master/OLIVE_Thomas-BETOUCHE_Menad-DUCROCQ_Romain  
