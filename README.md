@@ -34,21 +34,26 @@ Here are some of my projects :
     > website : https://romainducrocq.github.io/creative-coding-with-p5js/index.html  
 
 ### Data analysis
-- https://github.com/romainducrocq/uge/tree/master/projects/GPE-Routing-Project
-    - https://github.com/romainducrocq/uge/blob/master/projects/GPE-Routing-Project/Routing.ipynb
-- https://github.com/romainducrocq/uge/tree/master/projects/ML-project-track2vec
-    - https://github.com/romainducrocq/uge/blob/master/projects/ML-project-track2vec/track2vec-en.ipynb
-- https://github.com/romainducrocq/uge/tree/master/projects/dsviz-project
-- https://github.com/romainducrocq/emlyon/tree/master/python_data_analysis/project
-    - https://github.com/romainducrocq/emlyon/blob/master/python_data_analysis/project/DucrocqRomain_FinalProject.ipynb
+- **[Python, Pandas, Seaborn, Jupyter]** Analysis of trip distributions before and after the Grand Paris Express based on GTFS and OSM data in an OpenTripPlanner server | in Python and Jupyter notebook with Pandas and Seaborn.   
+    > repo : https://github.com/romainducrocq/uge/tree/master/projects/GPE-Routing-Project  
+    > notebook : https://github.com/romainducrocq/uge/blob/master/projects/GPE-Routing-Project/Routing.ipynb  
+- **[Python, Sklearn, Keras, Pandas, Seaborn, Jupyter]** Music playlist generation with a Word2Vec semi-supervised predictive model on a deezer dataset | in Python and Jupyter notebook with Sklearn, Keras, Pandas and Seaborn.  
+    > repo : https://github.com/romainducrocq/uge/tree/master/projects/ML-project-track2vec  
+    > notebook : https://github.com/romainducrocq/uge/blob/master/projects/ML-project-track2vec/track2vec-en.ipynb  
+- **[R, Tydir, Dplyr, Sf, Shiny]** Analysis of Game Of Thrones geospatial datasets and cartography in a Shiny interactive web app | in R and Shiny, with the tydir, dplyr and sf packages.  
+    > repo : https://github.com/romainducrocq/uge/tree/master/projects/dsviz-project  
+- **[Python, Pandas, Seaborn, Jupyter]** Exploration of the House Prices kaggle dataset | in Python and Jupyter notebook with Pandas and Seaborn.   
+    > repo : https://github.com/romainducrocq/emlyon/tree/master/python_data_analysis/project  
+    > notebook : https://github.com/romainducrocq/emlyon/blob/master/python_data_analysis/project/DucrocqRomain_FinalProject.ipynb  
 
 ### Web services APIs
-- https://github.com/romainducrocq/uge/tree/master/projects/Web-Service-Project
+- **[Java EE, Apache Tomcat, JSP]** Distributed architecture across web services and a client website with a SOAP API | in Java EE and JSP with an Apache Tomcat server.  
+     > repo : https://github.com/romainducrocq/uge/tree/master/projects/Web-Service-Project  
 
 ### More projects, old stuff
-- https://github.com/romainducrocq/SFML-Template
-- https://github.com/romainducrocq/ece/tree/master/batailleNarval
-- https://github.com/romainducrocq/ece/tree/master/OLIVE_Thomas-BETOUCHE_Menad-DUCROCQ_Romain
-- https://github.com/romainducrocq/ece/tree/master/ing2-pste
-- https://github.com/romainducrocq/ece/tree/master/ing1-Plantamiz
+- **[C++, SFML]** https://github.com/romainducrocq/SFML-Template  
+- **[C++]** https://github.com/romainducrocq/ece/tree/master/batailleNarval  
+- **[C++]** https://github.com/romainducrocq/ece/tree/master/OLIVE_Thomas-BETOUCHE_Menad-DUCROCQ_Romain  
+- **[C++, Allegro]** https://github.com/romainducrocq/ece/tree/master/ing2-pste  
+- **[C, Allegro]** https://github.com/romainducrocq/ece/tree/master/ing1-Plantamiz  
 
