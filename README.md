@@ -19,15 +19,15 @@ Here are some of my projects :
 - https://github.com/romainducrocq/uge/tree/master/projects/MMIS-project
 
 ### Planning & pathfinding
-- [C++, SFML] AI for the Snake game with Prim's minimum spanning tree algorithm and perturbated Hamiltonian cycles ; in modern C++ with the SFML 2D graphic library.  
+- **[C++, SFML]** AI for the Snake game with Prim's minimum spanning tree algorithm and perturbated Hamiltonian cycles ; in modern C++ with the SFML 2D graphic library.  
     > Code : https://github.com/romainducrocq/cnake-ai  
-- [JS, p5.js] Planner for the Tower of Hanoï puzzle with STRIPS representation and Astar shortest path algorithm ; in Javascript with the p5.js creating coding library in the browser.  
+- **[JS, p5.js]** Planner for the Tower of Hanoï puzzle with STRIPS representation and Astar shortest path algorithm ; in Javascript with the p5.js creating coding library in the browser.  
     > Code : https://github.com/romainducrocq/uge/tree/master/projects/MAS-project  
-    > Page : https://romainducrocq.github.io/uge/MAS-project/code/index.html  
-- [Octave] Find and cut critical nodes to assess resilience in large graphs with Yen's K-shortest paths algorithm ; in Octave.  
+    > Web page : https://romainducrocq.github.io/uge/MAS-project/code/index.html  
+- **[Octave]** Find and cut critical nodes to assess resilience in large graphs with Yen's K-shortest paths algorithm ; in Octave.  
     > Code : https://github.com/romainducrocq/uge/tree/master/projects/Reliability_DUCROCQ-Romain  
-- [C++, Allegro] Solver for the Sokoban game with different pathfinding algorithms : BFS/DFS, Best-FS, Dijkstra, Astar ; in C++ with the Allegro game graphic library.  
-    > https://github.com/romainducrocq/ece/tree/master/ing2-sokoban  
+- **[C++, Allegro]** Solver for the Sokoban game with different pathfinding algorithms : BFS/DFS, Best-FS, Dijkstra, Astar ; in C++ with the Allegro game graphic library.  
+    > Code : https://github.com/romainducrocq/ece/tree/master/ing2-sokoban  
 
 ### Data analysis
 - https://github.com/romainducrocq/uge/tree/master/projects/GPE-Routing-Project
