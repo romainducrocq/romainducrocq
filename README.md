@@ -19,7 +19,8 @@ Here are some of my projects :
 - https://github.com/romainducrocq/uge/tree/master/projects/MMIS-project
 
 ### Planning & pathfinding
-- https://github.com/romainducrocq/cnake-ai
+- AI for the game Snake with Prim's minimum spanning tree and perturbated Hamiltonian algorithms, in modern C++ with the SFML 2D graphic library. [![C++]( 	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
+    -https://github.com/romainducrocq/cnake-ai
 - https://github.com/romainducrocq/uge/tree/master/projects/MAS-project
     - https://romainducrocq.github.io/uge/MAS-project/code/index.html
 - https://github.com/romainducrocq/uge/tree/master/projects/Reliability_DUCROCQ-Romain
