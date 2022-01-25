@@ -25,7 +25,7 @@ Here are some of my projects :
     > repo : https://github.com/romainducrocq/initial-DQN  
 - **[<ins>frameworQ</ins>, Pyglet]**  
     > repo : https://github.com/romainducrocq/flappy-seamonkai  
-- **[Python, SUMO]**  
+- **[Python, SUMO]** RL agent learns to drive a car by car-following in a vehicle flow on a ring road with the tabular Q-learning algorithm | in Python Numpy with the SUMO traffic simulator.   
     > repo : https://github.com/romainducrocq/uge/tree/master/projects/MMIS-project  
 
 ### Planning & pathfinding  
