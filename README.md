@@ -15,7 +15,8 @@ Here are some of my projects :
 ## My projects
 
 ### Reinforcement learning
-- https://github.com/romainducrocq/frameworQ
+- **<u>frameworQ</u>** - **[Python, Pytorch, Tensorboard, OpenAi Gym]** Framework to easely create or bind RL environments and train / test agents with deep Q-learning algorithms : DQN, double DQN, Dueling DDQN, 3DQN with prioritized replay. The user wraps the Markov Decision Process and the environment in MVC structured templates, and tunes the hyper-parameters and the Q-network from a configuration file (or from command line arguments). | in Python with Pytorch ML prototyping, Tensorboard learning curve visualization and OpenAi Gym multi-processing learning.   
+    > repo : https://github.com/romainducrocq/frameworQ  
 - https://github.com/romainducrocq/DQN-ITSCwPD
 - https://github.com/romainducrocq/initial-DQN
 - https://github.com/romainducrocq/flappy-seamonkai
