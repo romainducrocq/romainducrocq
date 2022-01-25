@@ -7,8 +7,11 @@ From machine learning to autonomous agents, I'm passionnate about everything rel
 Yet, what I do like even more than ML is learning new things : I'm always curious to delve into new technologies, concepts and projects !
 Lately, I've been playing around a lot with Python, but I also have a soft spot for C++, Javascript and Bash.  
   
-Here are some of my projects :
 
+_My day-to-day work environment : Linux Debian Xfce | Tmux | Nano, Atom | Pycharm, IntelliJ, CLion._  
+  
+Here are some of my projects :  
+  
 ## My projects
 
 ### Reinforcement learning
