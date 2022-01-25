@@ -17,10 +17,17 @@ Here are some of my projects :
 ### Reinforcement learning
 - **<ins>frameworQ</ins>** - **[Python, Pytorch, Tensorboard, Msgpack, OpenAi Gym]** Framework to easely create or bind RL environments and train / test agents with deep Q-learning algorithms : DQN, double DQN, Dueling DDQN, 3DQN with prioritized replay. (The user wraps a Markov Decision Process <state/action/reward - functions> and the environment in MVC boilerplates ; then tunes the hyper-parameters and Q-network from a configuration file.) | in Python with Pytorch ML prototyping, Tensorboard learning curve visualization, Msgpack model saving and loading, and OpenAi Gym multi-processing learning.   
     > repo : https://github.com/romainducrocq/frameworQ  
-- https://github.com/romainducrocq/DQN-ITSCwPD
-- https://github.com/romainducrocq/initial-DQN
-- https://github.com/romainducrocq/flappy-seamonkai
-- https://github.com/romainducrocq/uge/tree/master/projects/MMIS-project
+- **[<ins>frameworQ</ins>, SUMO, Pandas, Seaborn, Jupyter, Latex]**
+    > repo : https://github.com/romainducrocq/DQN-ITSCwPD  
+    > article : https://arxiv.org/pdf/2109.14337.pdf
+    > thesis : https://raw.githubusercontent.com/romainducrocq/DQN-ITSCwPD/master/archive/report/DUCROCQ_Romain_M2_SIA_rapport_stage_2020-2021.pdf
+    > notebook : https://github.com/romainducrocq/DQN-ITSCwPD/blob/master/logs/test/analysis.ipynb
+- **[<ins>frameworQ</ins>, Pyglet]**
+    > repo : https://github.com/romainducrocq/initial-DQN
+- **[<ins>frameworQ</ins>, Pyglet]**
+    > repo : https://github.com/romainducrocq/flappy-seamonkai
+- **[Python, SUMO]**
+    > repo : https://github.com/romainducrocq/uge/tree/master/projects/MMIS-project
 
 ### Planning & pathfinding  
 - **[C++, SFML, CMake]** AI for the Snake game with Prim's minimum spanning tree algorithm and perturbated Hamiltonian cycles | in modern C++ with the SFML 2D graphic library and CMake.  
@@ -80,4 +87,5 @@ Here are some of my projects :
     > repo : https://github.com/romainducrocq/ece/tree/master/ing2-pste    
 - **[C, Allegro]** (old) Candy Crush game with a Nintendo theme | in C with the Allegro game graphic library.  
     > https://github.com/romainducrocq/ece/tree/master/ing1-Plantamiz  
+
 
