@@ -11,8 +11,6 @@ Here are some of my projects :
 
 ## My projects
 
-## My projects
-
 ### Reinforcement learning
 - https://github.com/romainducrocq/frameworQ
 - https://github.com/romainducrocq/DQN-ITSCwPD
@@ -21,9 +19,9 @@ Here are some of my projects :
 - https://github.com/romainducrocq/uge/tree/master/projects/MMIS-project
 
 ### Planning & pathfinding  
-- **[C++, SFML]** AI for the Snake game with Prim's minimum spanning tree algorithm and perturbated Hamiltonian cycles | in modern C++ with the SFML 2D graphic library.  
+- **[C++, SFML, CMake]** AI for the Snake game with Prim's minimum spanning tree algorithm and perturbated Hamiltonian cycles | in modern C++ with the SFML 2D graphic library and CMake.  
     > repo : https://github.com/romainducrocq/cnake-ai  
-- **[JS, p5.js]** Planner for the Tower of Hanoï puzzle with STRIPS representation and Astar shortest path algorithm | in Javascript with the p5.js creating coding library in the browser.  
+- **[Javascript, p5.js]** Planner for the Tower of Hanoï puzzle with STRIPS representation and Astar shortest path algorithm | in Javascript with the p5.js creating coding library in the browser.  
     > repo : https://github.com/romainducrocq/uge/tree/master/projects/MAS-project  
     > website : https://romainducrocq.github.io/uge/MAS-project/code/index.html  
 - **[Octave]** Find and cut critical nodes to assess resilience in large graphs with Yen's K-shortest paths algorithm | in Octave.  
@@ -32,7 +30,7 @@ Here are some of my projects :
     > repo : https://github.com/romainducrocq/ece/tree/master/ing2-sokoban  
 
 ### Coding in the browser  
-- **[JS, p5.js]** Many projects in a website ! Here comes a little bit of everything : cellular automata, genetic algorithms, boids, fractals, fourier transforms ... | in Javascript with the p5.js creative coding library in the browser.  
+- **[Javascript, p5.js]** Many projects in a website ! Here comes a little bit of everything : cellular automata, genetic algorithms, boids, fractals, fourier transforms ... | in Javascript with the p5.js creative coding library in the browser.  
     > repo : https://github.com/romainducrocq/creative-coding-with-p5js  
     > website : https://romainducrocq.github.io/creative-coding-with-p5js/index.html  
 
@@ -62,7 +60,12 @@ Here are some of my projects :
     > repo : https://github.com/romainducrocq/moocs/tree/master/udemy/Modern_Reinforcement_Learning_Deep_Q_Learning_in_PyTorch  
     
 ### More / old projects  
-- **[C++, SFML]** https://github.com/romainducrocq/SFML-Template  
+- **[C++, SFML, CMake]** MVC template for C/C++ multimedia projects | in modern C++ with the SFML 2D graphic library and CMake.  
+    > repo : https://github.com/romainducrocq/SFML-Template  
+- **[Python, R, Scala, Octave, Java, C]** Labs and programming excercices done during my masters on many topics | in several languages.  
+    > repo : https://github.com/romainducrocq/uge/tree/master/labs  
+- **[HTML/CSS, JS, Figma, Boosttrap]** Small websites to practice Ui/Ux web design and Bootstrap | in common web technologies.  
+    > repo : https://github.com/romainducrocq/emlyon/tree/master/designing_with_web  
 - **[C++]** (old) https://github.com/romainducrocq/ece/tree/master/batailleNarval  
 - **[C++]** (old) https://github.com/romainducrocq/ece/tree/master/OLIVE_Thomas-BETOUCHE_Menad-DUCROCQ_Romain  
 - **[C++, Allegro]** (old) https://github.com/romainducrocq/ece/tree/master/ing2-pste  
