@@ -58,7 +58,7 @@ Here are some of my projects :
     > repo : https://github.com/romainducrocq/moocs/tree/master/coursera/Deep_Learning_Specialization    
 - **[Python, Pytorch, OpenAi Gym]** Modern Reinforcement Learning: Deep Q Learning in PyTorch, Udemy : Q-learning, DQN, DDQN, 3DQN | in Python wit Pytorch and OpenAi Gym.  
     > repo : https://github.com/romainducrocq/moocs/tree/master/udemy/Modern_Reinforcement_Learning_Deep_Q_Learning_in_PyTorch  
-    
+
 ### More / old projects  
 - **[C++, SFML, CMake]** MVC template for C/C++ multimedia projects | in modern C++ with the SFML 2D graphic library and CMake.  
     > repo : https://github.com/romainducrocq/SFML-Template  
@@ -66,9 +66,15 @@ Here are some of my projects :
     > repo : https://github.com/romainducrocq/uge/tree/master/labs  
 - **[HTML/CSS, JS, Figma, Boosttrap]** Small websites to practice Ui/Ux web design and Bootstrap | in common web technologies.  
     > repo : https://github.com/romainducrocq/emlyon/tree/master/designing_with_web  
-- **[C++]** (old) https://github.com/romainducrocq/ece/tree/master/batailleNarval  
-- **[C++]** (old) https://github.com/romainducrocq/ece/tree/master/OLIVE_Thomas-BETOUCHE_Menad-DUCROCQ_Romain  
-- **[C++, Allegro]** (old) https://github.com/romainducrocq/ece/tree/master/ing2-pste  
-- **[C, Allegro]** (old) https://github.com/romainducrocq/ece/tree/master/ing1-Plantamiz  
+- **[Bash]** Shell scripts to convert scrapped manga scans to Kindle comic book archive format | in Bash.  
+    > repo : https://github.com/romainducrocq/debian_install/tree/master/debian_11_0_0_amd64_netinst_xfce/bin/mangas  
+- **[C++]** (old) Battleship game in the terminal | in C++.  
+    > repo : https://github.com/romainducrocq/ece/tree/master/batailleNarval  
+- **[C++]** (old) Snoopy's Magic Show GBA game in the terminal | in C++.  
+    > repo : https://github.com/romainducrocq/ece/tree/master/OLIVE_Thomas-BETOUCHE_Menad-DUCROCQ_Romain  
+- **[C++, Allegro]** (old) Portfolio management concept app and Gui | in C++ with the Allegro game graphic library. 
+    > repo : https://github.com/romainducrocq/ece/tree/master/ing2-pste    
+- **[C, Allegro]** (old) Candy Crush game with a Nintendo theme | in C with the Allegro game graphic library.  
+    > https://github.com/romainducrocq/ece/tree/master/ing1-Plantamiz  
 
 
