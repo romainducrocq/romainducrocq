@@ -19,9 +19,8 @@ Here are some of my projects :
     > repo : https://github.com/romainducrocq/frameworQ  
 - **[<ins>frameworQ</ins>, SUMO, Pandas, Seaborn, Jupyter, Latex]**  
     > repo : https://github.com/romainducrocq/DQN-ITSCwPD  
-    > article : https://arxiv.org/pdf/2109.14337.pdf  
+    > paper : https://arxiv.org/pdf/2109.14337.pdf  
     > thesis : https://raw.githubusercontent.com/romainducrocq/DQN-ITSCwPD/master/archive/report/DUCROCQ_Romain_M2_SIA_rapport_stage_2020-2021.pdf  
-    > notebook : https://github.com/romainducrocq/DQN-ITSCwPD/blob/master/logs/test/analysis.ipynb  
 - **[<ins>frameworQ</ins>, Pyglet]**  
     > repo : https://github.com/romainducrocq/initial-DQN  
 - **[<ins>frameworQ</ins>, Pyglet]**  
@@ -86,6 +85,6 @@ Here are some of my projects :
 - **[C++, Allegro]** (old) Portfolio management concept app and Gui | in C++ with the Allegro game graphic library. 
     > repo : https://github.com/romainducrocq/ece/tree/master/ing2-pste    
 - **[C, Allegro]** (old) Candy Crush game with a Nintendo theme | in C with the Allegro game graphic library.  
-    > https://github.com/romainducrocq/ece/tree/master/ing1-Plantamiz  
+    > repo : https://github.com/romainducrocq/ece/tree/master/ing1-Plantamiz  
 
 
