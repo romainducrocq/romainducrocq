@@ -17,7 +17,7 @@ Here are some of my projects :
 ### Reinforcement learning
 - **<ins>frameworQ</ins>** - **[Python, Pytorch, Tensorboard, Msgpack, OpenAi Gym]** Framework to easely create or bind RL environments and train / test agents with deep Q-learning algorithms : DQN, double DQN, Dueling DDQN, 3DQN with prioritized replay. (The user wraps a Markov Decision Process <state/action/reward - functions> and the environment in MVC boilerplates ; then tunes the hyper-parameters and Q-network from a configuration file.) | in Python with Pytorch ML prototyping, Tensorboard learning curve visualization, Msgpack model saving and loading, and OpenAi Gym multi-processing learning.   
     > repo : https://github.com/romainducrocq/frameworQ  
-- **[<ins>frameworQ</ins>, SUMO, Pandas, Seaborn, Jupyter, Latex]**  
+- **<ins>Master thesis</ins>** - **[<ins>frameworQ</ins>, SUMO, Pandas, Seaborn, Jupyter, Latex]** _"Deep Reinforcement Q-Learning for Intelligent Traffic Signal Control with Partial Detection"_ : improving mixed traffic efficiency at inteserctions through optimal control of traffic signals with deep reinforcement learning, in the case of partial state representations at varying penetration rates of connected vehicles | in frameworQ (my framework ^) with the SUMO traffic simulator as the RL environment. (Data analysis in Jupyter notebook with Pandas and Seaborn, and results summarized in a paper available on Arxiv. Master thesis and paper written in Latex.)   
     > repo : https://github.com/romainducrocq/DQN-ITSCwPD  
     > paper : https://arxiv.org/pdf/2109.14337.pdf  
     > thesis : https://raw.githubusercontent.com/romainducrocq/DQN-ITSCwPD/master/archive/report/DUCROCQ_Romain_M2_SIA_rapport_stage_2020-2021.pdf  
