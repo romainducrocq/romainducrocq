@@ -67,7 +67,7 @@ Here are some of my projects :
     > repo : https://github.com/romainducrocq/SFML-Template  
 - **[Python, R, Scala, Octave, Java, C]** Labs and programming excercices done during my masters on many topics | in several languages.  
     > repo : https://github.com/romainducrocq/uge/tree/master/labs  
-- **[HTML/CSS, JS, Figma, Boosttrap]** Small websites to practice Ui/Ux web design and Bootstrap | in common web technologies.  
+- **[HTML/CSS, JS, Figma, Boosttrap]** Small websites to play with Ui/Ux web design and Bootstrap | in common web technologies.  
     > repo : https://github.com/romainducrocq/emlyon/tree/master/designing_with_web  
 - **[Bash]** Shell scripts to convert scrapped manga scans to Kindle comic book archive format | in Bash.  
     > repo : https://github.com/romainducrocq/debian_install/tree/master/debian_11_0_0_amd64_netinst_xfce/bin/mangas  
