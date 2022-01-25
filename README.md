@@ -11,6 +11,8 @@ Here are some of my projects :
 
 ## My projects
 
+## My projects
+
 ### Reinforcement learning
 - https://github.com/romainducrocq/frameworQ
 - https://github.com/romainducrocq/DQN-ITSCwPD
@@ -52,9 +54,9 @@ Here are some of my projects :
      > repo : https://github.com/romainducrocq/uge/tree/master/projects/Web-Service-Project  
 
 ### Online courses (MOOCs)
-- **[Octave]** Machine Learning, Standford Online : neural networks, support vector machines, k-means clustering, principal component analysis, gaussian mixtures | in Octave.  
+- **[Octave]** Machine Learning, Stanford Online Coursera : neural networks, support vector machines, k-means clustering, principal component analysis, gaussian mixtures | in Octave.  
     > repo : https://github.com/romainducrocq/moocs/tree/master/coursera/Machine_Learning  
-- **[Python, Tensorflow, Jupyter]** Deep Learning Specialization, deeplearning.<span>ai : neural networks (MLP, HP tuning, regularization, optimization), computer vision (CNN, residual networks, YOLO), sequence models (RNN, LSTM/GRU, word embedding, attention mechanisms) | in Python and Jupyter notebook with Tensorflow.  
+- **[Python, Tensorflow, Jupyter]** Deep Learning Specialization, DeepLearning.<span>AI Coursera : neural networks (MLP, HP tuning, regularization, optimization), computer vision (CNN, residual networks, YOLO), sequence models (RNN, LSTM/GRU, word embedding, attention mechanisms) | in Python and Jupyter notebook with Tensorflow.  
     > repo : https://github.com/romainducrocq/moocs/tree/master/coursera/Deep_Learning_Specialization    
 - **[Python, Pytorch, OpenAi Gym]** Modern Reinforcement Learning: Deep Q Learning in PyTorch, Udemy : Q-learning, DQN, DDQN, 3DQN | in Python wit Pytorch and OpenAi Gym.  
     > repo : https://github.com/romainducrocq/moocs/tree/master/udemy/Modern_Reinforcement_Learning_Deep_Q_Learning_in_PyTorch  
@@ -65,4 +67,5 @@ Here are some of my projects :
 - **[C++]** (old) https://github.com/romainducrocq/ece/tree/master/OLIVE_Thomas-BETOUCHE_Menad-DUCROCQ_Romain  
 - **[C++, Allegro]** (old) https://github.com/romainducrocq/ece/tree/master/ing2-pste  
 - **[C, Allegro]** (old) https://github.com/romainducrocq/ece/tree/master/ing1-Plantamiz  
+
 
