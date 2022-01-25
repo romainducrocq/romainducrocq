@@ -8,6 +8,7 @@ Yet, what I do like even more than ML is learning new things : I'm always curiou
 Lately, I've been playing around a lot with Python, but I also have a soft spot for C++, Javascript and Bash.  
   
 Here are some of my projects :
+
 ## My projects
 
 ### Reinforcement learning
@@ -37,7 +38,7 @@ Here are some of my projects :
 - **[Python, Pandas, Seaborn, Jupyter]** Analysis of trip distributions before and after the Grand Paris Express based on GTFS and OSM data in an OpenTripPlanner server | in Python and Jupyter notebook with Pandas and Seaborn.   
     > repo : https://github.com/romainducrocq/uge/tree/master/projects/GPE-Routing-Project  
     > notebook : https://github.com/romainducrocq/uge/blob/master/projects/GPE-Routing-Project/Routing.ipynb  
-- **[Python, Sklearn, Keras, Pandas, Seaborn, Jupyter]** Music playlist generation with a Word2Vec semi-supervised predictive model on a deezer dataset | in Python and Jupyter notebook with Sklearn, Keras, Pandas and Seaborn.  
+- **[Python, Sklearn, Keras, Pandas, Seaborn, Jupyter]** Music playlist generation with a Word2Vec semi-supervised word embedding predictive model on a deezer dataset | in Python and Jupyter notebook with Sklearn, Keras, Pandas and Seaborn.  
     > repo : https://github.com/romainducrocq/uge/tree/master/projects/ML-project-track2vec  
     > notebook : https://github.com/romainducrocq/uge/blob/master/projects/ML-project-track2vec/track2vec-en.ipynb  
 - **[R, Tydir, Dplyr, Sf, Shiny]** Analysis of Game Of Thrones geospatial datasets and cartography in a Shiny interactive web app | in R and Shiny, with the tydir, dplyr and sf packages.  
@@ -50,10 +51,18 @@ Here are some of my projects :
 - **[Java EE, Apache Tomcat, JSP]** Distributed architecture across web services and a client website with a SOAP API | in Java EE and JSP with an Apache Tomcat server.  
      > repo : https://github.com/romainducrocq/uge/tree/master/projects/Web-Service-Project  
 
-### More projects (and older stuff)
+### Online courses (MOOCs)
+- **[Octave]** Machine Learning, Standford Online : neural networks, support vector machines, k-means clustering, principal component analysis, gaussian mixtures | in Octave.  
+    > repo : https://github.com/romainducrocq/moocs/tree/master/coursera/Machine_Learning  
+- **[Python, Tensorflow, Jupyter]** Deep Learning Specialization, deeplearning.<span>ai : neural networks (MLP, HP tuning, regularization, optimization), computer vision (CNN, residual networks, YOLO), sequence models (RNN, LSTM/GRU, word embedding, attention mechanisms) | in Python and Jupyter notebook with Tensorflow.  
+    > repo : https://github.com/romainducrocq/moocs/tree/master/coursera/Deep_Learning_Specialization    
+- **[Python, Pytorch, OpenAi Gym]** Modern Reinforcement Learning: Deep Q Learning in PyTorch, Udemy : Q-learning, DQN, DDQN, 3DQN | in Python wit Pytorch and OpenAi Gym.  
+    > repo : https://github.com/romainducrocq/moocs/tree/master/udemy/Modern_Reinforcement_Learning_Deep_Q_Learning_in_PyTorch  
+    
+### More / old projects  
 - **[C++, SFML]** https://github.com/romainducrocq/SFML-Template  
-- **[C++]** https://github.com/romainducrocq/ece/tree/master/batailleNarval  
-- **[C++]** https://github.com/romainducrocq/ece/tree/master/OLIVE_Thomas-BETOUCHE_Menad-DUCROCQ_Romain  
-- **[C++, Allegro]** https://github.com/romainducrocq/ece/tree/master/ing2-pste  
-- **[C, Allegro]** https://github.com/romainducrocq/ece/tree/master/ing1-Plantamiz  
+- **[C++]** (old) https://github.com/romainducrocq/ece/tree/master/batailleNarval  
+- **[C++]** (old) https://github.com/romainducrocq/ece/tree/master/OLIVE_Thomas-BETOUCHE_Menad-DUCROCQ_Romain  
+- **[C++, Allegro]** (old) https://github.com/romainducrocq/ece/tree/master/ing2-pste  
+- **[C, Allegro]** (old) https://github.com/romainducrocq/ece/tree/master/ing1-Plantamiz  
 
