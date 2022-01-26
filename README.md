@@ -31,10 +31,10 @@ Here are some of my projects :
 ### Planning & pathfinding  
 - **[C++, SFML, CMake]** AI for the Snake game with Prim's minimum spanning tree algorithm and perturbated Hamiltonian cycles | in modern C++ with the SFML 2D graphic library and CMake.  
     > repo : https://github.com/romainducrocq/cnake-ai  
-- **[Javascript, p5.js]** Planner for the Tower of Hanoï puzzle with STRIPS representation and Astar shortest path algorithm | in Javascript with the p5.js creating coding library in the browser.  
+- **[Javascript, p5.js]** Planner for the Tower of Hanoï puzzle with STRIPS representation and Astar shortest path algorithm | in Javascript with the p5.js creative coding library in the browser.  
     > repo : https://github.com/romainducrocq/uge/tree/master/projects/MAS-project  
     > website : https://romainducrocq.github.io/uge/MAS-project/code/index.html  
-- **[Octave]** Assess resilience in large graphs by finding and cutting critical nodes with Yen's K-shortest paths algorithm | in Octave.  
+- **[Octave]** Assess resilience of large graphs by finding and cutting critical nodes with Yen's K-shortest paths algorithm | in Octave.  
     > repo : https://github.com/romainducrocq/uge/tree/master/projects/Reliability_DUCROCQ-Romain  
 - **[C++, Allegro]** Solver for the Sokoban game with different pathfinding algorithms : BFS/DFS, Best-FS, Dijkstra, Astar | in C++ with the Allegro game graphic library.  
     > repo : https://github.com/romainducrocq/ece/tree/master/ing2-sokoban  
@@ -66,7 +66,7 @@ Here are some of my projects :
     > repo : https://github.com/romainducrocq/moocs/tree/master/coursera/Machine_Learning  
 - **[Python, Tensorflow, Jupyter]** Deep Learning Specialization, DeepLearning.<span>AI Coursera : neural networks (MLP, HP tuning, regularization, optimization), computer vision (CNN, residual networks, YOLO), sequence models (RNN, LSTM/GRU, word embedding, attention mechanisms) | in Python and Jupyter notebook with Tensorflow.  
     > repo : https://github.com/romainducrocq/moocs/tree/master/coursera/Deep_Learning_Specialization    
-- **[Python, Pytorch, OpenAi Gym]** Modern Reinforcement Learning: Deep Q Learning in PyTorch, Udemy : Q-learning, DQN, DDQN, 3DQN | in Python wit Pytorch and OpenAi Gym.  
+- **[Python, Pytorch, OpenAi Gym]** Modern Reinforcement Learning: Deep Q Learning in PyTorch, Udemy : Q-learning, DQN, DDQN, 3DQN | in Python with Pytorch and OpenAi Gym.  
     > repo : https://github.com/romainducrocq/moocs/tree/master/udemy/Modern_Reinforcement_Learning_Deep_Q_Learning_in_PyTorch  
 
 ### More / old projects  
