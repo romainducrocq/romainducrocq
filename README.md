@@ -20,7 +20,7 @@ Here are some of my projects :
 - **<ins>Master thesis</ins>** - **[<ins>frameworQ</ins>, SUMO, Pandas, Seaborn, Jupyter, Latex]** _"Deep Reinforcement Q-Learning for Intelligent Traffic Signal Control with Partial Detection"_ : improving mixed traffic efficiency at inteserctions through optimal control of traffic signals with deep reinforcement learning, in the case of partial state representations at varying penetration rates of connected vehicles | in frameworQ (my framework ^) with the SUMO traffic simulator as the RL environment. (Data analysis in Jupyter notebook with Pandas and Seaborn, and results summarized in a paper available on Arxiv. Master thesis and paper written in Latex.)   
     > repo : https://github.com/romainducrocq/DQN-ITSCwPD  
     > paper : https://arxiv.org/pdf/2109.14337.pdf  
-    > thesis : https://raw.githubusercontent.com/romainducrocq/DQN-ITSCwPD/master/archive/report/DUCROCQ_Romain_M2_SIA_rapport_stage_2020-2021.pdf  
+    > thesis : https://raw.githubusercontent.com/romainducrocq/DQN-ITSCwPD/master/archive/thesis/DUCROCQ_Romain_M2_SIA_master_thesis_2020-2021.pdf  
 - **[<ins>frameworQ</ins>, Pyglet]** RL agent learns to race a car around randomly generated racing tracks with deep reinforcement learning | in frameworQ (my framework ^) with a custom RL environment and a Pyglet OpenGL view.  
     > repo : https://github.com/romainducrocq/initial-DQN  
 - **[<ins>frameworQ</ins>, Pyglet]** RL agent learns to play Flappy Bird with deep reinforcement learning | in frameworQ (my framework ^) with a custom RL environment and a Pyglet OpenGL view. (And graphics made with Gimp.)   
